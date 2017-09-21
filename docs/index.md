@@ -2,7 +2,7 @@
 苹果官方搜索广告(Search Ads)帮助文档，原始链接：<a href="http://searchads.apple.com/help/">Search Ads Help - Apple</a>
 
 
-* [Basics 基础](basics/)
+* [Basics 基](basics/)
 	* [Overview 概要](basics/#overview)
 	* [Why advertise 为何做广告](basics/#why-advertise)
 	* [Pricing 价格问题](basics/#why-advertise)
